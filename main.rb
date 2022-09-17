@@ -1,4 +1,5 @@
-# puts "test"
-require'pry'
-binding.pry
+# frozen_string_literal: true
 
+require 'pry'
+
+puts 'test'

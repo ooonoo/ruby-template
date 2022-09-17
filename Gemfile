@@ -9,4 +9,4 @@ ruby '3.1.2'
 gem 'pry'
 
 # フォーマッター
-# gem 'rubocop', require: false
+gem 'rubocop', require: false
